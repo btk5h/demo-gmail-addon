@@ -1,0 +1,12 @@
+{
+  "name": "demo-gmail-addon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/btk5h/demo-gmail-addon",
+  "author": "Bryan Terce <bryan.terce@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@types/google-apps-script": "^1.0.14"
+  }
+}
